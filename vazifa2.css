@@ -1,0 +1,43 @@
+.ul{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    font-size: 30px;
+}
+.div{
+    display: flex;
+    gap: 500px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+}
+.h1{
+    font-size: 35px;
+}
+.home{
+    color: aqua;
+}
+.navbar{
+    margin: 5px 100px 500px 250px;
+    background-color: black;
+    color: aqua;
+    width: 800px;
+    height: 500px;
+    font-size: 80px;
+    text-align: center;
+    align-items:center;
+    justify-content: center;
+    border-radius: 20px;
+}
+.avtive{
+    
+    background-color: aqua;
+    color: black;
+    border-radius: 10px;
+    width: 700px;
+}
+body{
+    background-color: rgb(35, 31, 31);
+}
